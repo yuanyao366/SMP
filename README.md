@@ -19,6 +19,7 @@ This is the implementation of "Self-supervised Motion Perception for Spatio-temp
 ### Citation
 
 **C3D**
+```
 @inproceedings{tran2015learning,
   title={Learning spatiotemporal features with 3d convolutional networks},
   author={Tran, Du and Bourdev, Lubomir and Fergus, Rob and Torresani, Lorenzo and Paluri, Manohar},
@@ -26,8 +27,10 @@ This is the implementation of "Self-supervised Motion Perception for Spatio-temp
   pages={4489--4497},
   year={2015}
 }
+```
 
 **3D-R18**
+```
 @inproceedings{3DResNet,
   title={Can spatiotemporal 3d cnns retrace the history of 2d cnns and imagenet?},
   author={Hara, Kensho and Kataoka, Hirokatsu and Satoh, Yutaka},
@@ -35,8 +38,10 @@ This is the implementation of "Self-supervised Motion Perception for Spatio-temp
   pages={6546--6555},
   year={2018}
 }
+```
 
 **R(2+1)D**
+```
 @inproceedings{tran2018closer,
   title={A closer look at spatiotemporal convolutions for action recognition},
   author={Tran, Du and Wang, Heng and Torresani, Lorenzo and Ray, Jamie and LeCun, Yann and Paluri, Manohar},
@@ -44,3 +49,4 @@ This is the implementation of "Self-supervised Motion Perception for Spatio-temp
   pages={6450--6459},
   year={2018}
 }
+```
